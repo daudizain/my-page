@@ -1,0 +1,43 @@
+body {
+  line-height: 1.5;
+  color: #FEF2CC;
+  font-family: 'Indie Flower';
+  background: url('../images/POTD-AUROA_2936498k.jpg');
+  /* Full Page Background Receipe */
+  background-size: cover;
+  background-position: center;
+  background-attachment: fixed;
+}
+
+.container {
+  width: 500px;
+  margin: 0 auto;
+  text-align: center;
+  background: rgba(0,0,0,0.5);
+  padding: 10px;
+  border-radius: 10px;
+}
+
+.container2 {
+  width: 500px;
+  margin: 0 auto;
+  background: rgba(0,0,0,0.5);
+  padding: 10px;
+  border-radius: 10px;
+}
+
+h1 {
+  font-size: 80px;
+  font-family: 'Amatic SC';
+  margin-bottom: -50px;
+}
+
+h2 {
+  font-size: 30px;
+  font-family: 'Amatic SC';
+}
+
+a {
+  color: #00BCD1;
+  text-decoration: none;
+}
